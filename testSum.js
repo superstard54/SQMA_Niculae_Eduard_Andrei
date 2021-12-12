@@ -22,4 +22,7 @@ let cases = [
   [3,3,6]
 ];
 testCases(cases);
+
+
+
 console.log(testResults);
