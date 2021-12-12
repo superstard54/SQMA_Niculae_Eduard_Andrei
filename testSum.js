@@ -23,6 +23,4 @@ let cases = [
 ];
 testCases(cases);
 
-
-
 console.log(testResults);
