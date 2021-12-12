@@ -20,8 +20,5 @@ let cases = [
   [5, 4, 10],
   [2,2,4]
 ];
-
 testCases(cases);
-
-
 console.log(testResults);
