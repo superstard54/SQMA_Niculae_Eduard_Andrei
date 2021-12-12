@@ -18,6 +18,7 @@ function testCases(cases) {
 let cases = [
   [1, 2, 3],
   [5, 4, 10],
+  [2,2,4]
 ];
 
 testCases(cases);
